@@ -1,0 +1,24 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "#components": ["./src/shared/components"],
+      "#config": ["./src/shared/config"],
+      "#constants": ["./src/shared/constants"],
+      "#hooks": ["./src/shared/hooks"],
+      "#modules": ["./src/shared/modules"],
+      "#types": ["./src/shared/types"],
+      "#ui": ["src/shared/ui"],
+      "#utils": ["./src/shared/utils"],
+      "#api": ["src/api"],
+      "#assets/*": ["./src/assets/*"],
+      "#navigation": ["./src/navigation"],
+      "#navigation/*": ["./src/navigation/*"],
+      "#screens": ["./src/screens"],
+      "#store": ["./src/store"],
+      "#store/*": ["./src/store/*"]
+    }
+  }
+}
