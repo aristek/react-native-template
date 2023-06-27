@@ -7,7 +7,9 @@
 - Libs for gestures: react-native-gesture-handler
 - Libs for styles: react-native-safe-area-context
 
-Eslint and Typescript are set up in company code style, also Plop File Generator is integrated.
+Eslint and Typescript are set up in company code style, Plop File Generator and husky hooks is integrated.
+
+**Please, reinstall husky after git initialization**
 
 ### Project Architecture
 
