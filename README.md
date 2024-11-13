@@ -1,6 +1,6 @@
 ## react-native-template
 
-React Native Template based on team experience for React Native projects.
+React Native Template based on Aristek React Native team experience.
 
 ### Usage
 
