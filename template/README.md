@@ -1,7 +1,7 @@
 ### What does this template include:
 
-- React 18.2.0
-- React Native 0.71.7
+- React 18.3.1
+- React Native 0.75.4
 - Libs for store management: react-redux, redux toolkit, redux-persist, react-native-async-storage
 - Libs for navigation: @react-navigation/native, @react-navigation/stack, react-native-screens
 - Libs for gestures: react-native-gesture-handler
