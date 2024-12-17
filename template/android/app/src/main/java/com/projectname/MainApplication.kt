@@ -1,4 +1,5 @@
-package com.ProjectName
+
+package com.projectname
  
 import android.app.Application
 import com.facebook.react.PackageList
